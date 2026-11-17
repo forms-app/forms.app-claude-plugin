@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "forms-app": {
+      "type": "http",
+      "url": "https://api.forms.app/mcp"
+    }
+  }
+}

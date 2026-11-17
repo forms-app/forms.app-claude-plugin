@@ -1,0 +1,19 @@
+{
+  "name": "forms-app",
+  "displayName": "forms.app: Form Builder",
+  "version": "1.0.0",
+  "description": "Create and manage online forms, collect responses, and analyze results with forms.app, right from Claude.",
+  "author": {
+    "name": "forms.app",
+    "url": "https://forms.app"
+  },
+  "homepage": "https://forms.app",
+  "repository": "https://github.com/forms-app/forms.app-claude-plugin",
+  "license": "MIT",
+  "keywords": ["forms", "surveys", "quizzes", "responses", "analytics", "form-builder"],
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://forms.app/en/contact-us",
+  "privacyPolicyUrl": "https://forms.app/en/privacy-policy",
+  "termsOfServiceUrl": "https://forms.app/en/terms",
+  "documentationUrl": "https://forms.app/en/help-center/how-to-install-formsapp-mcp"
+}

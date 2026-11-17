@@ -1,0 +1,14 @@
+{
+  "name": "forms-app-plugins",
+  "description": "forms.app plugin for Claude: build forms, collect responses, and analyze results.",
+  "owner": {
+    "name": "forms.app",
+    "url": "https://forms.app"
+  },
+  "plugins": [
+    {
+      "name": "forms-app",
+      "source": "./"
+    }
+  ]
+}
